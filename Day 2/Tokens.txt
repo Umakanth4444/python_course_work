@@ -1,0 +1,24 @@
+Comments: Shows the description or to understand the code and these are not executable
+--------
+1.Single line(#)
+Multiple lines(''' ''')
+Tokens: Small unit of a program
+------
+
+-Identifiers:Names of Variables,functions...
+------------
+1.Contains Uppercase,lower case, digits, _
+2. No special characters
+3.Identifier can start with Uppercase,lower case, _
+4.Ketwords are not allowed(if,for)
+5.Case sensitive(m= 10, M=20)(2 differen values considered by uppercase and lowercase)
+
+-Variables: same as identifiers
+----------
+-Literals:values
+---------
+-keywords:(if,for...)
+---------
+-punctuators:(,),:,;....
+------------
+
