@@ -1,0 +1,36 @@
+
+Conditional Statements: decision making statements about what to run
+----------------------
+1.simpleif
+2.if else
+3.elif ladder
+4.nested if
+-------------------------
+if condn:
+    #Statement
+-----------------------
+if cond1:
+    #statmnt t
+else:
+    #stmnt f
+-----------------------
+if condn1:
+   #statmnt
+elif condn2:
+   #statmnt
+   .
+   .
+   .
+   #can be many 
+else: #optional
+   #statmnt
+------------------------
+if condn1:
+   if condn2:
+      sttmnt
+   .
+   .
+   .
+   .
+else:
+   #statmnt
