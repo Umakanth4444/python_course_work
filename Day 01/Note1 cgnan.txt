@@ -1,0 +1,50 @@
+there are 4 main pillars of object oriented program:
+1. Encapsulation: Binding the data and providing the security
+   -the process of bundling data (attributes) and methods (Action) into a single unit (class)
+   -Protects data from unauthorized access.
+   -Improves code security and maintainability.
+2. Inheritance: Inheritance allows one class (child/subclass) to inherit attributes and methods from another class (parent/superclass).
+--Benefits:
+  -Promotes code reuse.
+  -Reduces duplication.
+  -Makes code easier to maintain.
+3.Polymorphism: Polymorphism means "many forms." The same method name can behave differently depending on the object.
+--Benefits:
+  -Makes code flexible.
+  -Simplifies method usage.
+  -Supports dynamic behavior.
+4. Abstraction: Hiding the complicated stuff and showing the essential information or steps between developers
+-Abstraction means hiding implementation details and showing only the essential features to the user.
+Python provides abstraction using the abc (Abstract Base Class) module.
+
+--Benefits:
+  -Hides complex implementation.
+  -Makes programs easier to understand.
+  -Encourages a clear interface.
+
+Define:
+1.Class: Class is a blueprint of Attributes and Methods
+-A class is a blueprint or template used to create objects. It defines what data (attributes) and actions (methods) an object will have.
+2. Object
+-An object is an instance of a class. It is the actual entity created from the class.
+3. Attributes
+-Attributes are variables that belong to an object or class. They store information about the object.
+--Instance Attributes
+   -These belong to each object individually.
+--Class Attributes
+   -These are shared by all objects.
+--4. Methods: methods also known as action done.
+-Methods are functions defined inside a class. They describe what an object can do.
+
+Python features
+-Easy to Learn and Read – Python has a simple, English-like syntax that makes it beginner-friendly.
+-Interpreted Language – Code is executed line by line, making debugging easier.
+-Object-Oriented – Supports classes, objects, inheritance, polymorphism, and encapsulation.
+-Cross-Platform – Runs on Windows, macOS, Linux, and other operating systems without major code changes.
+-Open Source – Python is free to use, modify, and distribute.
+-Large Standard Library – Includes built-in modules for file handling, networking, databases, mathematics, and more.
+-Dynamic Typing – You don't need to declare variable types explicitly.
+-Automatic Memory Management – Uses garbage collection to manage memory automatically.
+-Extensive Third-Party Libraries – Rich ecosystem for web development, data science, machine learning, automation, game development, and 
+ more.
+Supports Multiple Programming Paradigms – Includes procedural, object-oriented, and functional programming styles.
